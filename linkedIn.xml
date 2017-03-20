@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "LinkedIn  Maven Test suite">
+	<test name ="LinkedIn Maven test">
+		<packages>
+			<package name="ProfNetwork" />
+		</packages>
+	</test>
+</suite>
